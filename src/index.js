@@ -193,7 +193,7 @@ function Footer() {
   }
 
 // React version 18
-// To display the newly created element in the UI
+// To display the newly created element in w UI
 const root = ReactDOM.createRoot(document.getElementById("root"));
 // Wrapping react components with strict mode and rendering into the UI
 root.render(
