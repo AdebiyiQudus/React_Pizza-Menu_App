@@ -59,7 +59,7 @@ const pizzaData = [
 function App() {
   return (
   <div className="container">
-{/* Adding component(child) as a nested component of App component(parent) */}
+
    <Header />
    <Menu />
    <Footer />
