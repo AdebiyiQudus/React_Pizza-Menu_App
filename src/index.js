@@ -69,7 +69,7 @@ function App() {
 
 function Header() {
   // const style = { color: "red", fontSize: "48px",
-  // textTransfomr: "uppercase"};  
+  // textTransform: "uppercase"};  
   const style = {};
 
   return (
