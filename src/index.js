@@ -3,7 +3,6 @@
 // React Fragments allows s to group some element without leaving any trace(affecting) the DOM
 // When rendering list item, we add key with any value i.e (<React.Fragment key = "pizza" >)
 
-
 import React from "react";
 // ReactDOM is a package that provides methods(render()) for rendering React components(functions, classes, JSX, props, statae, VirtualDOM) into the DOM
 import ReactDOM from "react-dom/client";
