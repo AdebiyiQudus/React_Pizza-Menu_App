@@ -1,6 +1,6 @@
 // Functional component => They are used for presenting UI elelment based on props(input data ) passed to them
 // Class component => These are js classes that extend from React.Components
-// React Fragments allows s to group some element without leaving any trace(affecting) the DOM
+// React Fragments allows us to group some element without leaving any trace(affecting) the DOM
 // When rendering list item, we add key with any value i.e (<React.Fragment key = "pizza" >)
 
 import React from "react";
